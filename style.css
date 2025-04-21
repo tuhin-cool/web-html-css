@@ -1,0 +1,382 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.contaner{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+ul li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 22px;
+}
+.bnt{
+    background: green;
+    padding: 15px 42px;
+    font-size: 20px;
+    color: #fff;
+    border-radius: 10px;
+}
+nav .main-manu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+}
+nav .main-manu ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+}
+
+nav{
+    background: transparent;
+    position: absolute;
+    width: 100%;
+}
+nav .manu ul li a:hover{
+    color: green;
+}
+#banner{
+    background: url(.//image/agenc-Banner\ 1.jpg);
+    padding-top: 315px;
+    padding-bottom: 53px;
+}
+.banner-bext{
+    align-items: center;
+    max-width: 950px;
+    margin: 0 auto;
+    text-align: center;
+}
+.banner-bext h1{
+    font-size: 75px;
+    padding-bottom: 50px;
+    color: #fff;
+}
+.banner-bext p{
+    padding-bottom: 50px;
+    font-size: 18px;
+    color: #fff;
+}
+.box{
+    height: 200px;
+    width: 80%;
+    background-color: rgb(95, 139, 95);
+    margin: 50px auto;
+}
+.box1{
+    display: inline-block;
+    width: 230px;
+    margin: 50px auto;
+    margin-left: 40px;
+}
+.box2{
+    display: inline-block;
+    margin: 50px auto;
+    margin-left: 170;
+}
+.box3{
+    display: inline-block;
+    margin: 50px auto;
+    margin-left: 140px;
+}
+.box4{
+    display: inline-block;
+    margin: 50px auto;
+    margin-left: 140px;
+}
+.box5{
+    background-color: gray;
+    height: 60px;
+    width: 400px;
+    margin: 50px auto;
+    color: #fff;
+    border-radius: 7px;
+}
+.box5{
+    text-align: center;
+}
+.box6{
+    text-align: center;
+}
+.box7{
+    height: 300px;
+    width: 300px;
+    background: rgba(233, 229, 229, 0.619);
+    display: inline-block;
+    border-radius: 10px;
+    margin-right: 50px;
+}
+.box8{
+    height: 300px;
+    width: 300px;
+    background: rgba(233, 229, 229, 0.619);
+    display: inline-block;
+    border-radius: 10px;
+}
+.box9{
+    height: 300px;
+    width: 300px;
+    background: rgba(233, 229, 229, 0.619);
+    display: inline-block;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+.div10{
+    text-align: center;
+}
+.div11{
+    height: 300px;
+    width: 300px;
+    background: rgba(233, 229, 229, 0.619);
+    display: inline-block;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+.div12{
+    height: 300px;
+    width: 300px;
+    background: rgba(233, 229, 229, 0.619);
+    display: inline-block;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+.div13{
+    height: 300px;
+    width: 300px;
+    background: rgba(233, 229, 229, 0.619);
+    display: inline-block;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+.box14{
+    height: 200px;
+    width: 80%;
+    background: rgba(233, 229, 229, 0.619);
+    margin: 50px auto;
+    border-radius: 10px;
+    text-align: center;
+}
+.box14 h1{
+    top: 14px;
+    font-size: 40px;
+}
+.box14 h2{
+    font-size: 40px;
+}
+.box15{
+    height: 300px;
+    width: 350px;
+    background: rgba(233, 229, 229, 0.619);
+    display: inline-block;
+    border-radius: 10px;
+    margin-right: 50px;
+}
+.box16{
+    height: 300px;
+    width: 350px;
+    background: rgba(233, 229, 229, 0.619);
+    display: inline-block;
+    border-radius: 10px;
+    margin-right: 50px;
+}
+.box17{
+    height: 300px;
+    width: 350px;
+    background: rgba(233, 229, 229, 0.619);
+    display: inline-block;
+    border-radius: 10px;
+    margin-right: 50px;
+}
+.box18{
+    height: 300px;
+    width: 350px;
+    background: rgba(233, 229, 229, 0.619);
+    display: inline-block;
+    border-radius: 10px;
+    margin-right: 50px;
+}
+.box19{
+    display: inline-block;
+}
+.box30{
+   height: 200px;
+   width: 80%;
+   background: rgba(233, 229, 229, 0.619);
+   margin: 50px auto;
+   border-radius: 10px;
+   text-align: center;
+ }
+.box30 h1{
+    font-size: 40px;
+}
+.first1{
+    text-align: center;
+}
+.box31{
+    display: inline-block;
+}
+.box32{
+    display: inline-block;
+}
+.box33{
+    display: inline-block;
+}
+.box31 img{
+    height: 400px;
+    width: 400px;
+}
+.box32 img{
+    height: 400px;
+    width: 400px;
+}
+.box33 img{
+    height: 400px;
+    width: 400px;
+}
+.first2{
+    text-align: center;
+}
+.box34{
+    display: inline-block;
+}
+.box35{
+    display: inline-block;
+}
+.box36{
+    display: inline-block;
+}
+.box34 img{
+    height: 400px;
+    width: 400px;
+}
+.box35 img{
+    height: 400px;
+    width: 400px;
+}
+.box36 img{
+    height: 400px;
+    width: 400px;
+}
+.part1{
+    display: inline-block;
+}
+.part2{
+    display: inline-block;
+}
+.box_coller{
+    background-color: rgb(232, 235, 238);
+    border-radius: 15px;
+}
+.box40{
+    height: 200px;
+    width: 80%;
+    background: rgba(233, 229, 229, 0.619);
+    margin: 50px auto;
+    border-radius: 10px;
+    text-align: center;
+}
+.box40 h1{
+    font-size: 30px;
+}
+.box41{
+    display: inline-block;
+}
+.box42{
+    display: inline-block;
+}
+.box43{
+    display: inline-block;
+}
+.box41 img{
+    height: 400px;
+    width: 400px;
+}
+.box42 img{
+    height: 400px;
+    width: 400px;
+}
+.box43 img{
+    height: 400px;
+    width: 400px;
+}
+.box39{
+    background-color: rgb(228, 232, 235);
+    text-align: center;
+}
+.box50{
+    background-color: rgb(228, 232, 235);
+    text-align: center;
+}
+.box50{
+    margin-top: 40px;
+    background-color: #7a7777;
+    border-radius: 5px;
+}
+.box51{
+    display: inline-block;
+}
+.box52{
+    display: inline-block;
+}
+.box51 img{
+    height: 350px;
+    width: 500px;
+}
+.box52 img{
+    height: 400px;
+    width: 300px;
+}
+.box60{
+    background-color: rgb(244, 246, 248);
+    text-align: center;
+    gap: 16px;
+}
+.box61{
+    display: inline-block;
+    
+}
+.box62{
+    display: inline-block;
+    
+}
+.box63{
+    display: inline-block;
+
+}
+.box64{
+    display: inline-block;
+
+}
+.box65{
+    display: inline-block; 
+
+}
+.box61 img{
+    /* margin-left: 90px; */
+}
+.box62 img{
+    margin-left: 90px;
+}
+.box63 img{
+    margin-left: 90px;
+}
+.box64 img{
+    margin-left: 90px;
+}
+.box65 img{
+    margin-left: 90px;
+
+}
+.box64:hover{
+    color: blue;
+}
+.box65:hover{
+    color: blue;
+}
